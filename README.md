@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jim Mittn
+- 👋 Hi, I’m @Jim Mittan
 - 👀 I’m interested in computer solutions to puzzles that are related to P vs NP
 - 📫 How to reach me at jmmittan@gmail.com
 
